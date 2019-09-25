@@ -4,3 +4,4 @@
 - salt
 # Instructions
 - Wash your hands.
+- Get a bowl.
