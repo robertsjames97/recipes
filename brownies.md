@@ -4,3 +4,5 @@
 
 # Instructions
 - cut up weed
+- wohoo
+- sleep
