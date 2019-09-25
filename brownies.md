@@ -3,4 +3,4 @@
 - weed
 
 # Instructions
-- wohoo
+- cut up weed
